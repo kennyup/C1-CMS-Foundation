@@ -34,7 +34,26 @@
 			<File path="\WebSite.csproj.user" />
 			<File path="\WebSite.csproj.vspscc" />
 			<File path="\Properties\AssemblyInfo.cs" />
-		</Files>
+      <File path="\bin\csi.exe" />
+      <File path="\bin\csi.rsp" />
+      <File path="\bin\Microsoft.CodeAnalysis.CSharp.Scripting.dll" />
+      <File path="\bin\Microsoft.CodeAnalysis.Scripting.dll" />
+      <File path="\bin\Microsoft.CodeAnalysis.VisualBasic.dll" />
+      <File path="\bin\Microsoft.DiaSymReader.Native.amd64.dll" />
+      <File path="\bin\Microsoft.DiaSymReader.Native.x86.dll" />
+      <File path="\bin\Microsoft.VisualBasic.Core.targets" />
+      <File path="\bin\vbc.exe" />
+      <File path="\bin\vbc.exe.config" />
+      <File path="\bin\vbc.rsp" />
+      <File path="\bin\VBCSCompiler.exe" />
+      <File path="\bin\VBCSCompiler.exe.config" />
+      <File path="\bin\System.AppContext.dll" />
+      <File path="\bin\System.Collections.Immutable.dll" />
+      <File path="\bin\System.Diagnostics.StackTrace.dll" />
+      <File path="\bin\System.IO.FileSystem.dll" />
+      <File path="\bin\System.IO.FileSystem.Primitives.dll" />
+
+    </Files>
 	</Target>
 
 	<Target name="postjavascriptcompile">
